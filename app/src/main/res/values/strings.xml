@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Avengers Characters App</string>
+    <string name="characters_name">Characters Name</string>
+    <string name="about">About</string>
+    <string name="list">Characters List</string>
+    <string name="grid">Characters Image</string>
+    <string name="cardview">Characters Card</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
